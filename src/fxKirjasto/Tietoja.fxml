@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="150.0" prefWidth="300.0" style="-fx-background-color: #ffffB0;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1">
+	<children>
+		<Label alignment="TOP_CENTER" maxWidth="1.7976931348623157E308" prefHeight="48.0" prefWidth="300.0" text="Kirjaston aineistorekisteri">
+			<font>
+				<Font name="Arial Bold" size="20.0" />
+			</font>
+		</Label>
+		<Label alignment="CENTER" maxWidth="1.7976931348623157E308" prefHeight="0.0" prefWidth="300.0" text="Ohjelmointi 2-kurssin harjoitustustyö, 2019" />
+      <Label text="Jyväskylän yliopisto" />
+			<Label alignment="BOTTOM_CENTER" maxWidth="1.7976931348623157E308" prefHeight="0.0" prefWidth="300.0" text="Hannamari Heiniluoma">
+				<font>
+					<Font name="System Bold Italic" size="16.0" />
+				</font>
+			</Label>
+	</children>
+</VBox>
